@@ -7,7 +7,7 @@ The pipeline follows a structured **raw → processed → curated** data flow an
 
 This project also emphasizes understanding real-world data pipeline challenges, including errors, schema changes, and troubleshooting — not just successful executions.
 
-![Databricks Medallion Pipeline](databricks-medallion-pipeline-overview.png)
+![Databricks Medallion Pipeline](docs/medallion-pipeline-overview.png)
 
 ## Objectives
 - Build an end-to-end data pipeline in Databricks
