@@ -1,10 +1,11 @@
 **Databricks Data Pipeline Project**
-**Overview**
+## Overview
+This project demonstrates a hands-on Databricks data pipeline built to apply Lakehouse concepts in practice.  
+The goal is to move beyond theory and understand how ingestion, transformations, schema handling, and overall pipeline behavior work in real-world scenarios.
 
-This project demonstrates a hands-on Databricks data pipeline built to apply Lakehouse concepts in practice.
-The goal was to move beyond theory and understand how ingestion, transformations, schema handling, and pipeline behavior work in real scenarios.
+The pipeline follows a structured **raw → processed → curated** data flow and is designed with a focus on clarity, maintainability, and learning.
 
-The pipeline follows a structured raw → processed → curated data flow and is designed for clarity, maintainability, and learning.
+This project also emphasizes understanding real-world data pipeline challenges, including errors, schema changes, and troubleshooting — not just successful executions.
 
 ## Objectives
 - Build an end-to-end data pipeline in Databricks
